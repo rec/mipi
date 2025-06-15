@@ -1,2 +1,2 @@
 # mipi
-🎵 `mipi`: A configurable command line MIDI processor
+🎵 `mipi`: A configurable command line MIDI processor 🎵

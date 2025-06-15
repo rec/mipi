@@ -1,0 +1,7 @@
+[project]
+name = "mipi"
+version = "0.1.0"
+description = "🎵 `mipi`: A configurable command line MIDI processor 🎵"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
